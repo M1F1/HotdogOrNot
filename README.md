@@ -12,4 +12,4 @@ App is hosted on AWS EC2, on an virtual ubuntu instance. <br />
 
 Model is served via restfull api on flask server. <br />
 
-Adress for testing: http://52.14.217.174/
+Adress for testing: outdated
